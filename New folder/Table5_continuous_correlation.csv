@@ -1,4 +1,0 @@
-Target,r_yprob,p_yprob,r_calerror,p_calerror,r_confidence,p_confidence,r_correct_binary,p_correct_binary
-AChE,0.1266,0.0101,-0.3222,0.0,0.548,0.0,0.1962,0.0001
-5LOX,0.2112,0.0,-0.2857,0.0,0.4141,0.0,0.0422,0.3996
-COX2,-0.1095,0.1538,-0.3686,0.0,0.7017,0.0,0.05,0.5163
