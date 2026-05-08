@@ -1,0 +1,21 @@
+DATA CURATION LOG
+============================================================
+Generated: 2026-05-01 17:10:56
+ChEMBL version: 36
+COCONUT version: May 2026
+
+CURATION DECISIONS
+----------------------------------------
+pChEMBL minimum threshold: 5.0 (10 uM cutoff)
+Active/inactive threshold: 6.0 (1 uM cutoff)
+Duplicate handling: median pChEMBL per InChIKey
+Standardization: RDKit (largest fragment, neutralization, canonical SMILES)
+NP classification: COCONUT membership OR NP-likeness score >= 0.5
+Deduplication: full InChIKey + connectivity layer (tautomers)
+
+DATASET SIZES
+----------------------------------------
+Target  Synthetic_n  Synthetic_active  NP_n  NP_active  Combined_n
+  AChE         4248              2688   412        200        4660
+  5LOX         1724              1070   401        231        2125
+  COX2         3513              2376   171         60        3684
