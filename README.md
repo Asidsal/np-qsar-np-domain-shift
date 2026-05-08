@@ -126,7 +126,7 @@ Curated datasets, trained models, and all generated figures are deposited on thi
 
 > **DOI:** [to be assigned upon acceptance]
 
-The Zenodo deposit includes all 9 curated CSV files (synthetic train, NP test, combined per target) that are not included in this repository due to size and licensing constraints. ChEMBL data is available under CC BY-SA 3.0. COCONUT 2.0 data is available under CC0.
+The deposit includes all 9 curated CSV files (synthetic train, NP test, combined per target) that are not included in this repository due to size and licensing constraints. ChEMBL data is available under CC BY-SA 3.0. COCONUT 2.0 data is available under CC0.
 
 ---
 
