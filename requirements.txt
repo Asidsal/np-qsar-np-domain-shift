@@ -1,0 +1,46 @@
+# Requirements for:
+# Structural and Activity Distribution Shifts Contribute Distinctly to
+# QSAR Generalization Failure in Natural Product Chemical Space
+#
+# Notebook 01 (01_data_curation.ipynb) runs locally.
+# Notebook 02 (02_modeling_pipeline.ipynb) runs on Google Colab.
+#
+# Version pins reflect the environment used for all reported results.
+# Install with: pip install -r requirements.txt
+#
+# Note: RDKit installation via pip requires rdkit >= 2022.03.
+# If pip install rdkit fails, use conda: conda install -c conda-forge rdkit
+
+# Core cheminformatics
+rdkit>=2022.03.0
+
+# Data handling
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine learning
+scikit-learn>=1.1.0
+xgboost>=1.7.0
+
+# Deep learning
+torch>=1.13.0
+
+# Dimensionality reduction
+umap-learn>=0.5.3
+
+# Explainability
+shap>=0.41.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Statistical analysis
+scipy>=1.9.0
+
+# Utilities
+tqdm>=4.64.0
+
+# Jupyter (for Notebook 01 local execution)
+jupyter>=1.0.0
+ipykernel>=6.0.0
