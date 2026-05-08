@@ -4,7 +4,7 @@ This directory contains curation metadata and summary statistics.
 The full curated CSV files are not included in this repository due to size
 and licensing constraints. They can be reproduced by running
 `notebooks/01_data_curation.ipynb` against the source databases, or
-downloaded from the Zenodo deposit (DOI: to be assigned upon acceptance).
+downloaded from this repo.
 
 ---
 
@@ -103,11 +103,9 @@ Where target is AChE, 5LOX, or COX2.
 
 ---
 
-## Zenodo Deposit
+## Deposit
 
 The full curated datasets (9 CSV files, ~4 MB total), all generated figures
-(7 PNG files), and all results tables (8 CSV files) are available at:
-
-**DOI:** [to be assigned upon acceptance]
+(7 PNG files), and all results tables (8 CSV files) are available in this repo
 
 This includes a frozen snapshot of the repository at submission time.
